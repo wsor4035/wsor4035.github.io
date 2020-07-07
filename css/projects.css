@@ -1,0 +1,10 @@
+.content{
+    width: 80%;
+    margin: 20px auto;
+    text-align: center
+}
+
+.content p{
+    padding: 20px;
+    /*changing padding to somethin that scales at some point*/
+}
