@@ -1,0 +1,35 @@
+.content{
+    width: 40%;
+    margin: 20px auto;
+    text-align: center;
+    background: black;
+    border-radius: 25px;
+    border: 1px solid #bebebe;
+}
+
+.content p{
+    padding: 20px 20px;
+}
+
+.content img{
+    max-width: 100%;
+    height: auto;
+}
+
+.main{
+    text-align: center;
+}
+
+a{
+    color: #bebebe;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #4f8cc9;
+}
+
+hr.formated_hr{
+    width: 80%;
+    border-top: 1px solid #bebebe;
+}
