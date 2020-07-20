@@ -1,10 +1,17 @@
 .content{
-    width: 40%;
+    width: 95%;
     margin: 20px auto;
     text-align: center;
     background: black;
     border-radius: 25px;
     border: 1px solid #bebebe;
+}
+
+/* Medium screens and above */
+@media (min-width: 768px) {
+    .content {
+      width: 40%;
+    }
 }
 
 .content p{
